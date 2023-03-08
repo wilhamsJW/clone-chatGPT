@@ -1,0 +1,20 @@
+{
+  "name": "clone-chatgpt",
+  "version": "1.0.0",
+  "description": "Veja na prática o poder incrível dos algoritmos de inteligência artificial da OpenAI para criar um projeto inédito, passando do back-end com Node.js ao front-end com React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilhamsJW/clone-chatGPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilhamsJW/clone-chatGPT/issues"
+  },
+  "homepage": "https://github.com/wilhamsJW/clone-chatGPT#readme"
+}
